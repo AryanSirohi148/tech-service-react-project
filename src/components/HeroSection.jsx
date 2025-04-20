@@ -1,9 +1,12 @@
-import React from 'react'
+import React,{useContext} from 'react'
 import { NavLink } from 'react-router-dom'
 import styled from 'styled-components'
 import { Button } from '../styles/Button'
+import {useGlobalContext} from '../context'
+
 
 const HeroSection = (props) => {
+  const firstName = useGlobalContext()      //this data is coming from context api
   return (
     <Wrapper>
       <div className="container grid grid-two-column">
@@ -11,7 +14,7 @@ const HeroSection = (props) => {
           <p className="hero-top-data">THIS IS ME</p>
           <h1 className="hero-heading">{props.name}</h1>
           <p className="hero-para">
-            I'm Name. A Full stack Developer, youtuber and freelancer. A Full
+            I'm {firstName}. A Full stack Developer, youtuber and freelancer. A Full
             stack Developer, youtuber and freelancer.
           </p>
           <Button className="btn hireme-btn">
