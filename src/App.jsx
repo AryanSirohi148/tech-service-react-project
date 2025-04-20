@@ -8,6 +8,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import {ThemeProvider} from 'styled-components'  // we use themeprovider so that every element can use it
 import { GlobalStyle } from './GlobalStyle'
+import Error from './Pages/Error'
 
 
 
@@ -45,6 +46,7 @@ function App() {
       <Route path='/about' element={<About/>} />
       <Route path='/service' element={<Services/>} />
       <Route path='/contact' element={<Contact/>} />
+      <Route path='/*' element={<Error/>} />
 
 
     </Routes>
