@@ -10,6 +10,7 @@ import {ThemeProvider} from 'styled-components'  // we use themeprovider so that
 import { GlobalStyle } from './GlobalStyle'
 
 
+
 function App() {
 
   const theme = {
@@ -44,6 +45,7 @@ function App() {
       <Route path='/about' element={<About/>} />
       <Route path='/service' element={<Services/>} />
       <Route path='/contact' element={<Contact/>} />
+
 
     </Routes>
     <Footer/>
