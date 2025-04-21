@@ -13,6 +13,9 @@ This project is designed to represent a digital tech solutions agency offering s
 ## 🌐 Live Preview
 
 [Click here to view the live site](https://tech-service-react-project.vercel.app)
+
+[Click here to view the live site](https://tech-service-react-project-7mui0t0jx-aryan-sirohis-projects.vercel.app/)
+
 ---
 
 ## 📁 Pages Included
