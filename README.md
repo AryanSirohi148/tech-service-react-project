@@ -12,7 +12,7 @@ This project is designed to represent a digital tech solutions agency offering s
 
 ## 🌐 Live Preview
 
-[Click here to view the live site](#) *(Replace with your deployed link)*
+[Click here to view the live site](#) *(tech-service-react-project.vercel.app)*
 
 ---
 
