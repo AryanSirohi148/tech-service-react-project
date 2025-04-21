@@ -9,6 +9,7 @@ import Footer from './components/Footer'
 import {ThemeProvider} from 'styled-components'  // we use themeprovider so that every element can use it
 import { GlobalStyle } from './GlobalStyle'
 import Error from './Pages/Error'
+import GoToTop from './components/GoToTop'
 
 
 
@@ -50,6 +51,7 @@ function App() {
 
 
     </Routes>
+    <GoToTop/>
     <Footer/>
     </BrowserRouter>
     </ThemeProvider>
