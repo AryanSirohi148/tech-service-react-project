@@ -5,17 +5,16 @@ import { Button } from '../styles/Button'
 import {useGlobalContext} from '../context'
 
 
-const HeroSection = () => {
+const HeroSection = ({description}) => {
   const {name,image} = useGlobalContext()      //this data is coming from context api
   return (
     <Wrapper>
       <div className="container grid grid-two-column">
         <div className="section-hero-data">
-          <p className="hero-top-data">THIS IS ME</p>
+          <p className="hero-top-data">WELCOME TO</p>
           <h1 className="hero-heading">{name}</h1>
           <p className="hero-para">
-            I'm {name}. A Full stack Developer, youtuber and freelancer. A Full
-            stack Developer, youtuber and freelancer.
+           {description}
           </p>
           <Button className="btn hireme-btn">
             <NavLink to="/contact"> hire me </NavLink>

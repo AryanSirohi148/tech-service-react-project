@@ -1,39 +1,50 @@
 [
-    {
-      "id": 1,
-      "title": "Web Development",
-      "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
-    },
-    {
-      "id": 2,
-      "title": "App Development",
-      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
-    },
-    {
-      "id": 3,
-      "title": "Software Development",
-      "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
-    },
-    {
-      "id": 4,
-      "title": "Digital Marketing",
-      "image": "https://images.pexels.com/photos/908163/pexels-photo-908163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
-    },
-    {
-      "id": 5,
-      "title": "Graphic Designer",
-      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
-    },
-    {
-      "id": 6,
-      "title": "Thapa CodeFest",
-      "image": "https://thapaonlineclass.com/images/thapa.png",
-      "description": "It's a monthly event where we will give a project and you have to submit your project. Codefest will be mostly related to frontend projects and occasionally fullstack."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Web Development",
+    "image": "https://images.pexels.com/photos/109371/pexels-photo-109371.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Crafting modern and responsive websites tailored to your business needs."
+  },
+  {
+    "id": 2,
+    "title": "App Development",
+    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "description": "Building intuitive and high-performance mobile apps for iOS and Android."
+  },
+  {
+    "id": 3,
+    "title": "Software Development",
+    "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Creating scalable software solutions that streamline business operations."
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing",
+    "image": "https://images.pexels.com/photos/95916/pexels-photo-95916.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Helping your business grow online through SEO, social media, and paid ads."
+  },
+  {
+    "id": 5,
+    "title": "Graphic Design",
+    "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Designing visual content that communicates your brand effectively."
+  },
+  {
+    "id": 6,
+    "title": "Cloud Integration",
+    "image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Enabling scalable and secure cloud-based infrastructure for your projects."
+  },
+  {
+    "id": 7,
+    "title": "UI/UX Strategy",
+    "image": "https://images.pexels.com/photos/248528/pexels-photo-248528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "Improving user experience and interface design through data-driven insights."
+  },
+  {
+    "id": 8,
+    "title": "Brand Identity",
+    "image": "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg",
+    "description": "Developing a strong brand image that resonates with your target audience."
+  }
+]

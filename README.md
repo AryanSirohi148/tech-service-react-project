@@ -1,12 +1,67 @@
-# React + Vite
+# DotLogic – Tech Service Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DotLogic is a modern, responsive tech service website built using React. It showcases a clean UI and a modular component-based architecture with essential features like routing, form handling, reusable UI elements, and a fully responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+This project is designed to represent a digital tech solutions agency offering services like web/app development, graphic design, digital marketing, cloud integration, and more. It has been developed using modern React practices such as component reuse, routing, theming with `styled-components`, and more.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Preview
+
+[Click here to view the live site](#) *(Replace with your deployed link)*
+
+---
+
+## 📁 Pages Included
+
+- **Home Page** – Showcases key services and brand intro
+- **About Page** – Provides an overview of DotLogic’s mission
+- **Services Page** – Displays a grid of services using JSON data
+- **Contact Page** – Includes a fully functional contact form
+- **Error Page (404)** – Handles undefined routes gracefully
+
+---
+
+## ✨ Features
+
+- ✅ **Reusable Components**  
+  Header, Footer, Button, HeroSection, and ServiceCard used across multiple pages.
+
+- ✅ **Dynamic Routing with React Router**  
+  Seamless navigation between pages using `react-router-dom`.
+
+- ✅ **Custom Error Page**  
+  A dedicated 404 page for unmatched routes.
+
+- ✅ **Contact Form**  
+  Responsive and styled form that can be connected to backend/email service.
+
+- ✅ **Scroll-To-Top Button**  
+  Smooth scroll-to-top experience using a reusable `GoToTop` component.
+
+- ✅ **Responsive Layout**  
+  Fully mobile-friendly using media queries via `styled-components`.
+
+- ✅ **Global Theming**  
+  All colors, fonts, and styles are managed with a `ThemeProvider`.
+
+- ✅ **JSON-Driven Services**  
+  All service cards are dynamically fetched from a local JSON file.
+
+- ✅ **Clean Project Structure**  
+  Organized into Pages and Components folders for maintainability.
+
+---
+
+## 🛠 Tech Stack
+
+- **React** (CRA)
+- **React Router DOM**
+- **Styled-Components**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **JSON (for services data)**

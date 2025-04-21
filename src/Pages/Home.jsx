@@ -15,8 +15,7 @@ const Home = () => {
 
   return (
     <>
-    <HeroSection /> 
-    <Services/>
+    <HeroSection description="We are DotLogic. We build high-performance, scalable, and beautiful websites and applications for your business." />    <Services/>
     <Contact/>
     </>
     

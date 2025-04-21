@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
             {
                 type: "HOME_UPDATE",
                 payload: {       //in this we have to provide the same value as above
-                    name: 'Thapa Technical_H',
+                    name: 'DotLogic',
                     image: './images/hero.svg',
                 }
             }
@@ -31,7 +31,7 @@ const AppProvider = ({ children }) => {
             {
                 type: "ABOUT_UPDATE",
                 payload: {       //in this we have to provide the same value as above
-                    name: 'Vinod Thapa_A',
+                    name: 'DotLogic',
                     image: './images/about1.svg',
                 }
             }

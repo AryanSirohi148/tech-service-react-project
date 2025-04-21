@@ -29,7 +29,7 @@ const Footer = () => {
         <div className="container grid grid-four-column">
           <div className="footer-about">
             <h3>Dot Logic</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+            <p>Building modern tech solutions to power your business forward.</p>
           </div>
 
           {/* 2nd column */}
@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
               <div>
                 <a
-                  href=""
+                  
                   target="_blank">
                   <FaYoutube className="icons" />
                 </a>
